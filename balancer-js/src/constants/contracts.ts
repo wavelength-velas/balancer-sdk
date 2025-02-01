@@ -1,3 +1,3 @@
 export const balancerVaultMap: { [network: number]: string } = {
-    106: '0xA4A48dfcAE6490AfE9C779BF0f324B48683e488c',
+    2741: '0xA06e92c4A9D5Fe540666e1BFf10982d496D5A70D',
 };

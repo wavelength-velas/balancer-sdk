@@ -769,7 +769,7 @@ function batchSwaps(assetArray, swaps) {
 }
 
 const balancerVaultMap = {
-	106: '0xA4A48dfcAE6490AfE9C779BF0f324B48683e488c',
+	106: '0xA06e92c4A9D5Fe540666e1BFf10982d496D5A70D',
 };
 
 /*
@@ -2065,6 +2065,7 @@ var Network;
     Network[Network["AVALANCHE"] = 43114] = "AVALANCHE";
     Network[Network["FUJI"] = 43113] = "FUJI";
 	Network[Network["VELAS"] = 106] = "VELAS";
+	Network[Network["ABSTRACT"] = 2741] = "ABSTRACT";
 })(Network || (Network = {}));
 
 const SUBGRAPH_URLS = {

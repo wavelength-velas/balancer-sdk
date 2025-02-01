@@ -8,5 +8,6 @@ export enum Network {
     ARBITRUM = 42161,
     AVALANCHE = 43114,
     FUJI = 43113,
-    VELAS = 106
+    VELAS = 106,
+    ABSTRACT = 2741,
 }
